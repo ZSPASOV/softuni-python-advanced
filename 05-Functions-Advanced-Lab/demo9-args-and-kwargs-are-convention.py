@@ -1,0 +1,1 @@
+# *args and **kwargs are just accepted convention, anything else for their name would work too

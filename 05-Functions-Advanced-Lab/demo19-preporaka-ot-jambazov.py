@@ -1,0 +1,1 @@
+# django, flask, sqlalchemy, numpy, scipy, tensorflow, mysql - da gi u4im

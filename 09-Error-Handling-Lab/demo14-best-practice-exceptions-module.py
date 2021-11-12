@@ -1,0 +1,1 @@
+# all exceptions can be put in a module called exceptions with different classes
